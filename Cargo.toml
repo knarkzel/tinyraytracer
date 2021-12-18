@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.51"
 fehler = "1.0.0"
+glam = "0.20.1"
